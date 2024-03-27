@@ -10,9 +10,14 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Introduction
+
+Car theft crimes in San Francisco have fluctuated a lot during the years. In  the early 2000 occurrences of this type of crime were very high. A significant decrease happened from the year 2005 to 2006. A possible explanation could be attributed to the [dot-com bust](https://www.nytimes.com/2001/07/24/business/a-city-takes-a-breath-after-the-dot-com-crash-san-francisco-s-economy-is-slowing.html), a period of massive investment in all kind of tech start-ups which led to a recession period reaching its peak in March 2000. San Francisco was the core of the bust, and the economical difficulties can be reflected in the car theft trend up to 2005. From 2006 this trend continued to decline until 2010 when it started raising again. Even if 2010 is the post recession year this type of spikes remain very difficult to explain and they can be attributed to multi factors such as new crime policies, immigration patterns, inflation, likelihood of arrests.  
+
+
+![output](images/output.png)
+
 
 ## Header 2
 
