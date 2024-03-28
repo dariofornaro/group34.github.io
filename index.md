@@ -14,10 +14,20 @@ Car theft crimes in San Francisco have fluctuated a lot during the years. In  th
 
 # Can economic in-equality be a reason for car thefts?
 
+Car thefts in San Francisco reveal many interesting trends for us to explore, whether they are explainable in concrete ways such as tourist spots being the hotspot for theft or trends based on more complicated and abstract workings such as likelihood of arrest versus the severity of punishment.
+
+Investigating the concentration of car theft crime moving from the peak of 2005 to 2006 one of the lowest years can reveal to us some of the story behind why there was such a significant decrease. 2006 begins to feel the effects of equalisation of wealth after the burst of the dot-com bubble, looking into the working-class counties such as Mercede, McLaren, Bayview and Sunset we can visually see more concentrations of car thefts than when we compare a year later in 2006. These are areas worth comparing because they are significantly more residential, and less likely to attract tourism which would skew the data (as we see in the central parts of the city), as tourists are more likely to leave valuables in cars, or have more obvious cars to target such as rental cars. So, a year later we see that these suburbs have a reduced concentration of car thefts occurring, does this allow us to say that bringing forward better equality of wealth reduces crime?
+
 <figure>
   <iframe width="100%" height="500" src="heatmap.html"></iframe>
   <figcaption>Fig 2. - Heatmap of car theft occurences every month (2004-2007) overlayed with median household income of San Francisco counties from the ACS census.</figcaption>
 </figure>
+
+Looking at another significant economic event the “Great Recession” which begun at the end of 2007 and officially ended in the middle of 2009, the rate of car theft again begins rising as the US begins to recover economically. Once again looking at the residential working-class suburbs in the middle of 2010 you can see the density increase in amount of thefts in those areas from that period till the peak in our data of 2015. Why would the economic recovery lead to higher crime? During that period the [http://www.bayareaeconomy.org/wp-content/uploads/2021/03/Income-Inequality_3.10.21.pdf](top 10% highest-earning households income grew by 51% more than the bottom 10% of households). Which means the disparity of wealth once again widened, potentially being an explanation for these trends, but it is important to note economics can be one of the many machines driving fluctuations in crime.
+
+It is worth addressing that auto burglaries have become far more effective, due to being able to more quickly and efficiently offload stolen goods, with the rise of online trading platforms like eBay. Additionally, the rise of consumer electronics such as tablets, laptops, mobile phones and GPS devices which are often left in cars made smash-and-grabs increasingly more profitable. With this rise came more targeted burglaries with thieves using [https://www.nbcbayarea.com/news/local/car-break-ins-tech-devices/3285126/](devices) (1) to pickup whether a car contains radio emitting devices. This can be an additional explanation to the rising trend we begin to see occurring from 2011 and onwards.
+
+
 ## Header 2
 
 > This is a blockquote following a header.
