@@ -12,6 +12,12 @@ Car theft crimes in San Francisco have fluctuated a lot during the years. In  th
 ![output](image/outputs.png)
 
 
+# Can economic in-equality be a reason for car thefts?
+
+<figure>
+  <iframe width="100%" height="500" src="heatmap.html"></iframe>
+  <figcaption>Fig 2. - Heatmap of car theft occurences every month (2004-2007) overlayed with median household income of San Francisco counties from the ACS census.</figcaption>
+</figure>
 ## Header 2
 
 > This is a blockquote following a header.
