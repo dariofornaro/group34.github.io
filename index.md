@@ -27,6 +27,12 @@ Looking at another significant economic event the “Great Recession” which be
 
 It is worth addressing that auto burglaries have become far more effective, due to being able to more quickly and efficiently offload stolen goods, with the rise of online trading platforms like eBay. Additionally, the rise of consumer electronics such as tablets, laptops, mobile phones and GPS devices which are often left in cars made smash-and-grabs increasingly more profitable. With this rise came more targeted burglaries with thieves using [devices](https://www.nbcbayarea.com/news/local/car-break-ins-tech-devices/3285126/) to pickup whether a car contains radio emitting devices. This can be an additional explanation to the rising trend we begin to see occurring from 2011 and onwards.
 
+# Investigating other factors that may explain the fluctuations of vehicle theft crime.
+
+<figure>
+  <iframe width="100%" height="600" src="timeline.html"></iframe>
+  <figcaption>Fig 3. - Interactive timeline showcasing the trend over the years of all theft related crime, car theft and drug related crimes,</figcaption>
+</figure>
 
 ## Header 2
 
