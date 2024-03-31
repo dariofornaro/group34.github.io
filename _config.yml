@@ -21,7 +21,7 @@
 title: San Francisco Daily Analyst
 email: hardhittingjournalism@sfda.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Are you from San Francisco and are looking for a place where safely park your car? Or are you wondering if theft car crime
+  Are you from San Francisco and are curious about Car Thefts crimes in your city? Or are you wondering if theft car crime
   escalated over the years? Leveraging public safety datasets from the City and County of San Francisco, this analysis aims to give 
   a data-driven answer to these questions and unveil some interesting patterns.
   Through the use of bar plot and interactive district maps the users will be able to 
