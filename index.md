@@ -29,115 +29,17 @@ It is worth addressing that auto burglaries have become far more effective, due 
 
 # Investigating other factors that may explain the fluctuations of vehicle theft crime.
 
+In 2009 San Francisco changed the way they conducted policing by decentralising investigation units and established an approach of [community policing](https://medium.com/@juliepitta/a-missed-chance-for-community-police-cooperation-a2c652a8c8b5). Due to these changes in policing approach the department became ineffective in curbing theft crimes in the city, making vehicle theft crimes become [low risk and high reward for thieves](https://www.sfchronicle.com/bayarea/article/car-break-in-oakland-18283842.php). 
+
 <figure>
   <iframe width="100%" height="600" src="timeline.html"></iframe>
   <figcaption>Fig 3. - Interactive timeline showcasing the trend over the years of all theft related crime, car theft and drug related crimes,</figcaption>
 </figure>
 
-## Header 2
+This gives us a new way to view our dataset, by looking at arrests for vehicle theft and comparing it to the sum of all theft related crimes (excluding vehicle thefts) to see whether the community policing changes could explain the decrease we see in 2009, not as a decrease in crime occurrences but rather number of arrests decreasing. We can see from the two trend lines, the sum of theft crimes follows similar movement to vehicle thefts, suggesting that there may be some merit in policing changes reducing the likelihood of assailants being arrested. Then why to the figures start growing increasingly from 2011 onwards? Is it because the number of crimes started rising due to how low-risk it was, or did San Francisco PD get better at catching thefts or working within their new de-centralised models? This is why it is not wise to extrapolate reasons from singular datasets, it can however guide us into discussions or into what areas should be investigated.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Investigating this data is not only interesting, but it can also lead us into understanding how we can better fix societal issues at the root cause rather than resulting to reactionary measures. Before we conclude comparing trends, we will dive into one more topic to see whether increasing drug usage in San Francisco can explain rising vehicle thefts and general thefts post 2009. 
+Increases in [drug usage are often tied with increasing amounts of theft](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4070162/), and San Francisco has unfortunately being going through a [rising epidemic of opioid usage, overdoses and deaths](https://www.nytimes.com/2024/01/31/upshot/san-francisco-drug-crisis.html). From 2010 to 2012 the curve was flat according to the NY Times, where we also see a flattening of arrests before the gradual climb again. Potentially providing some evidence that indeed the arrests correlate to the number of crimes. 2013 onwards the unjoining of drug and theft trend lines begins to grow, which begs the question based on our assumption wouldn’t these two be tied together? According to the Times article, overdose deaths continue to skyrocket from 2014, so if there are continually more drug users then we could assume we would see more arrests for drug offences. It can be a possibility that criminals are more desperately turning to theft to fund drug habits, and therefore more likely to be arrested for theft related crimes, which would explain the disjoint between arrests for theft and drug charges.
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
